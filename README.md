@@ -14,8 +14,8 @@
 
 My main interest is applying analytics and ML to **finance** (credit risk, scoring, financial analytics) and **healthcare** (clinical and operational data, prediction and prevention), though I'm open to opportunities in other areas where data analysis can create value.
 
-- 🔍 Exploring **credit risk** and **quantitative finance**
-- 🩺 Applying ML to **healthcare** problems using clinical data
+- 🏦 Exploring **credit risk** and **quantitative finance**
+- 🏥 Applying ML to **healthcare** problems using clinical data
 - 🤝 Active in collaborative applied research projects
 - 🌍 Interested in international academic and professional opportunities
 
