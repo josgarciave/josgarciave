@@ -10,12 +10,12 @@
 
 ## About me
 
-Statistics student focused on data science and machine learning, with hands on experience building end-to-end projects: from data cleaning and modeling to deploying results.
+**Statistics** student at Universidad Nacional de Colombia focused on data science and machine learning, with hands on experience building end-to-end projects: from data cleaning and modeling to deploying results.
 
 My main interest is applying analytics and ML to **finance** (credit risk, scoring, financial analytics) and **healthcare** (clinical and operational data, prediction and prevention), though I'm open to opportunities in other areas where data analysis can create value.
 
 - 🔍 Exploring **credit risk** and **quantitative finance**
-- 🩺 Applying ML to **healthcare** problems using open and clinical data (datos.gov.co)
+- 🩺 Applying ML to **healthcare** problems using clinical data
 - 🤝 Active in collaborative applied research projects
 - 🌍 Interested in international academic and professional opportunities
 
@@ -41,14 +41,15 @@ My main interest is applying analytics and ML to **finance** (credit risk, scori
 
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-7733aa?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/SEABORN-7733aa?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/PLOTLY-7733aa?style=flat-square&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER_BI-7733aa?style=flat-square&logo=powerbi&logoColor=white)
 
 **Dev & Tools**
 
+![Excel](https://img.shields.io/badge/EXCEL-aa2233?style=flat-square&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-aa2233?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-aa2233?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-aa2233?style=flat-square&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/EXCEL-aa2233?style=flat-square&logo=microsoftexcel&logoColor=white)
-
 ---
 
 ## Projects
@@ -57,7 +58,7 @@ My main interest is applying analytics and ML to **finance** (credit risk, scori
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/josgarciave/Sanghelios">
+<a href="https://github.com/HacklabMLMedellin/Sanghelios">
 <img src="REPLACE_WITH_IMAGE_URL_SANGHELIOS" height="200" alt="Sanghelios">
 </a>
 
@@ -94,5 +95,5 @@ Predictive model and interactive dashboard estimating economic growth for Colomb
 
 ## Contact
 
-📧 josgarciave@unal.edu.co
+📧 josgarciave@gmail.com
 💼 Open to internships and collaborations in data science, applied ML, and risk analytics
