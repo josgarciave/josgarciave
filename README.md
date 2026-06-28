@@ -1,10 +1,8 @@
 <div align="center">
 
-# José Miguel García Vélez
+# Jose Miguel García Vélez
 
 **Statistics Student · Data Science & Machine Learning**
-
-Universidad Nacional de Colombia — AI Research Group (Semillero), EAFIT
 
 </div>
 
@@ -12,7 +10,7 @@ Universidad Nacional de Colombia — AI Research Group (Semillero), EAFIT
 
 ## About me
 
-Statistics student focused on data science and machine learning, with hands-on experience building end-to-end projects: from data cleaning and modeling to deploying results.
+Statistics student focused on data science and machine learning, with hands on experience building end-to-end projects: from data cleaning and modeling to deploying results.
 
 My main interest is applying analytics and ML to **finance** (credit risk, scoring, financial analytics) and **healthcare** (clinical and operational data, prediction and prevention), though I'm open to opportunities in other areas where data analysis can create value.
 
@@ -43,8 +41,7 @@ My main interest is applying analytics and ML to **finance** (credit risk, scori
 
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-7733aa?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/SEABORN-7733aa?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-7733aa?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-7733aa?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-7733aa?style=flat-square&logo=powerbi&logoColor=white)
 
 **Dev & Tools**
 
