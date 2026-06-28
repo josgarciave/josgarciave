@@ -1,7 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29429481/README.md)
-## Hi there 👋
-
-<!--<div align="center">
+<div align="center">
 
 # José Miguel García Vélez
 
@@ -101,5 +98,4 @@ Predictive model and interactive dashboard estimating economic growth for Colomb
 ## Contact
 
 📧 josgarciave@unal.edu.co
-💼 Open to internships and collaborations in data science, applied ML, and risk analytics.
-
+💼 Open to internships and collaborations in data science, applied ML, and risk analytics
