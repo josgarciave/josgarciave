@@ -2,7 +2,7 @@
 
 # Jose Miguel García Vélez
 
-**Statistics Student · Data Science & Machine Learning**
+**Statistician · Data Science & Machine Learning**
 
 </div>
 
