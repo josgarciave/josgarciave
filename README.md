@@ -59,7 +59,7 @@ My main interest is applying analytics and ML to **finance** (credit risk, scori
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/HacklabMLMedellin/Sanghelios">
-<img src="https://github.com/HacklabMLMedellin/Sanghelios/blob/main/presentation/assets/logo.png" height="200" alt="Sanghelios">
+<img src="https://github.com/HacklabMLMedellin/Sanghelios/blob/main/RECURSOS/presentation/assets/logo.png" height="200" alt="Sanghelios">
 </a>
 
 ### Sanghelios
@@ -75,7 +75,7 @@ Blood supply shortage prediction and donor profiling system for Hospital General
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/josgarciave/Expected-Growth-of-the-Country-s-Companies-by-Sector">
-<img src="REPLACE_WITH_IMAGE_URL_GROWTH" height="200" alt="Expected Growth of the Country's Companies by Sector">
+<img src="https://github.com/josgarciave/Expected-Growth-of-the-Country-s-Companies-by-Sector/blob/main/resources/images/BannerReadme.png" height="200" alt="Expected Growth of the Country's Companies by Sector">
 </a>
 
 ### Expected Growth of the Country's Companies by Sector
