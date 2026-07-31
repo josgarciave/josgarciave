@@ -68,7 +68,6 @@ My main interest is applying analytics and ML to **finance** (credit risk, scori
 Blood supply shortage prediction and donor profiling system for Hospital General de Medellín, built on open health data (datos.gov.co).
 
 ![](https://img.shields.io/badge/Time_Series-111?style=flat-square)
-![](https://img.shields.io/badge/Clustering-111?style=flat-square)
 ![](https://img.shields.io/badge/FastAPI-111?style=flat-square)
 
 </td>
