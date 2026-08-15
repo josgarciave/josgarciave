@@ -12,10 +12,11 @@
 
 **Statistics** student at Universidad Nacional de Colombia focused on data science and machine learning, with hands on experience building end-to-end projects: from data cleaning and modeling to deploying results.
 
-My main interest is applying analytics and ML to **finance** (credit risk, scoring, financial analytics) and **healthcare** (clinical and operational data, prediction and prevention), though I'm open to opportunities in other areas where data analysis can create value.
+My main interest is applying data analytics, statistics, and machine learning to real-world problems, using data to identify patterns, generate insights, support decision-making, and build predictive models. I'm open to opportunities across different industries and fields where data-driven approaches can create value.
 
-- 💹 Exploring **credit risk** and **quantitative finance**
-- ⚕️ Applying ML to **healthcare** problems using clinical data
+- 📊 Exploring data analytics, statistical modeling, and machine learning
+- 🤖 Applying data-driven methods to real-world problems
+- 🔎 Developing predictive models and extracting actionable insights from data
 - 🤝 Active in collaborative applied research projects
 - 🌍 Interested in international academic and professional opportunities
 
