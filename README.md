@@ -81,7 +81,7 @@ System that predicts blood shortages at Hospital General de Medellín 14 days in
 </a>
 
 ### Expected Growth of the Country's Companies by Sector
-`Python · Streamlit`
+`Python · Jupyter · Streamlit`
 
 Predictive model and interactive dashboard estimating economic growth for Colombia's 10,000 largest companies. Built for the Datos al Ecosistema 2025 challenge.
 
