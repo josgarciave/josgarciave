@@ -64,12 +64,14 @@ My main interest is applying data analytics, statistics, and machine learning to
 </a>
 
 ### Sanghelios
-`Python · scikit-learn · XGBoost`
+`Python · Jupyter`
 
 System that predicts blood shortages at Hospital General de Medellín 14 days in advance using an XGBoost model, turning that signal into AI-designed donation campaigns deployed through a dashboard and 3D map.
 
 ![](https://img.shields.io/badge/Time_Series-111?style=flat-square)
+![](https://img.shields.io/badge/XGBoost-111?style=flat-square)
 ![](https://img.shields.io/badge/FastAPI-111?style=flat-square)
+![](https://img.shields.io/badge/AI_Agents-111?style=flat-square)
 
 </td>
 <td width="50%" valign="top" align="center">
