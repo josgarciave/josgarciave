@@ -66,7 +66,7 @@ My main interest is applying data analytics, statistics, and machine learning to
 ### Sanghelios
 `Python · scikit-learn · XGBoost`
 
-Blood supply shortage prediction and donor profiling system for Hospital General de Medellín, built on open health data (datos.gov.co).
+System that predicts blood shortages at Hospital General de Medellín 14 days in advance using an XGBoost model, turning that signal into AI-designed donation campaigns deployed through a dashboard and 3D map.
 
 ![](https://img.shields.io/badge/Time_Series-111?style=flat-square)
 ![](https://img.shields.io/badge/FastAPI-111?style=flat-square)
