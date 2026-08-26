@@ -49,6 +49,7 @@ My main interest is applying data analytics, statistics, and machine learning to
 
 ![Excel](https://img.shields.io/badge/EXCEL-aa2233?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-aa2233?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-aa2233?style=flat-square&logo=antigravity&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-aa2233?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-aa2233?style=flat-square&logo=jupyter&logoColor=white)
 ---
