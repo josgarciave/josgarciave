@@ -99,4 +99,4 @@ Predictive model and interactive dashboard estimating economic growth for Colomb
 ## Contact
 
 📧 josgarciave@gmail.com
-💼 Open to internships and collaborations in data science, applied ML, and risk analytics
+💼 Open to internships and research collaborations in Statistics, Data Science, and Applied ML.
