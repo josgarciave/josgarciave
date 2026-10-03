@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josgarciave/"><img src="https://img.shields.io/badge/LINKEDIN-1f3a5f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn"></a>
-  <a href="https://aperture-systems-lab.github.io/"><img src="https://img.shields.io/badge/APERTURE-1f3a5f?style=for-the-badge&logo=github&logoColor=white" alt="Aperture"></a>
+  <a href="https://aperture-systems-lab.github.io/"><img src="https://img.shields.io/badge/APERTURE-1f3a5f?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAP1BMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5M6L8AAAAEHRSTlMA%2FE4vbrDRkQAAAAAAAAAA%2Fv7zBgAAARlJREFUeNrtVduyxCAIEyLw%2F398jrX1im2dndmn5anVBENUDOEX3wswNhksJLxHiUQa3%2Bo5BDERySstKZQzQx9qYU1oYSDiUEV0x4Bcyc9I%2F7rG2yHG2iG6qSOroThaNQ716adJXZTBGU5FPtoJ9Yut%2BMPac6N1qqvCr6UjNfJAgygucOtUiJ4wmUR1CRvzYzYUs9lBugrKJ1PjH4KzSCgZ83RErVuDw5CB0HkuHoM7ScOmRoehl4IhndCcJTPsUvB%2FwrmkRKQlg%2BuxEowb6zLyZqoaD8dsxZDguVHCqdxWePF6VbpF5uGVb%2B5p7RT8CE%2BmmJKhwz%2F3M6DB20avfFLj3MNX3RUAnz3qXdNHRqth50HZflF%2B8Un8AYoSBIObbgb%2BAAAAAElFTkSuQmCC" alt="Aperture"></a>
 </p>
 
 </div>
@@ -29,8 +29,9 @@ I'm a statistics student at Universidad Nacional de Colombia, interested in data
 
 **Data Science**
 
-![NumPy](https://img.shields.io/badge/NUMPY-1f3a5f?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-1f3a5f?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-1f3a5f?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SCIPY-1f3a5f?style=flat-square&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-1f3a5f?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBOOST-1f3a5f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMyAzaDZ2NEgzem0xMiA3aDZ2NGgtNnptMCA3aDZ2NGgtNnptLTItNEg3djVoNnYySDVWOWgydjJoNnoiLz48L3N2Zz4%3D&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/STATSMODELS-1f3a5f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNOS45NiAxMS4zMUMxMC44MiA4LjEgMTEuNSA2IDEzIDZzMi4xOCAyLjEgMy4wNCA1LjMxQzE3IDE0LjkyIDE4LjEgMTkgMjIgMTl2LTJjLTIuMiAwLTMtMi40Ni00LjAzLTYuMkMxNy4wOCA3LjQ2IDE2LjE1IDQgMTMgNHMtNC4wOCAzLjQ2LTQuOTcgNi44QzcuMDMgMTQuNTQgNi4yIDE3IDQgMTdWMkgydjIwaDIwdi0ySDR2LTFjMy45IDAgNS00LjA4IDUuOTYtNy42OSIvPjwvc3ZnPg%3D%3D&logoColor=white)
