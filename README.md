@@ -3,6 +3,10 @@
 # Jose Miguel García Vélez
 
 **Statistician · Data Science & Machine Learning**
+<p align="center">
+  <a href="https://www.linkedin.com/in/josgarciave/"><img src="https://img.shields.io/badge/LINKEDIN-1f3a5f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://aperture-systems-lab.github.io/"><img src="https://img.shields.io/badge/APERTURE-1f3a5f?style=for-the-badge&logo=github&logoColor=white" alt="Aperture"></a>
+</p>
 
 </div>
 
@@ -10,15 +14,7 @@
 
 ## About me
 
-**Statistics** student at Universidad Nacional de Colombia focused on data science and machine learning, with hands on experience building end-to-end projects: from data cleaning and modeling to deploying results.
-
-My main interest is applying data analytics, statistics, and machine learning to real-world problems, using data to identify patterns, generate insights, support decision-making, and build predictive models. I'm open to opportunities across different industries and fields where data-driven approaches can create value.
-
-- 📊 Exploring data analytics, statistical modeling, and machine learning
-- 🤖 Applying data-driven methods to real-world problems
-- 🔎 Developing predictive models and extracting actionable insights from data
-- 🤝 Active in collaborative applied research projects
-- 🌍 Interested in international academic and professional opportunities
+I'm a statistics student at Universidad Nacional de Colombia, interested in data science and machine learning. I like using data to find patterns and build predictive models for real-world problems, and I'm open to opportunities across different fields. I co-found Aperture, a student research group at my university.
 
 ---
 
