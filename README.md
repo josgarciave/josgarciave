@@ -55,16 +55,7 @@ I'm a statistics student at Universidad Nacional de Colombia, interested in data
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/HacklabMLMedellin/Sanghelios">
-<img src="https://raw.githubusercontent.com/HacklabMLMedellin/Sanghelios/main/RECURSOS/presentation/assets/logo.png" height="200" alt="Sanghelios">
-</a>
-
-### Sanghelios
-`Python · Jupyter`
+<a href="https://github.com/HacklabMLMedellin/Sanghelios"><img src="assets/project-sanghelios.svg" width="100%" alt="Sanghelios"></a>
 
 System that predicts blood shortages at Hospital General de Medellín 14 days in advance using an XGBoost model, turning that signal into AI-designed donation campaigns deployed through a dashboard and 3D map.
 
@@ -73,15 +64,7 @@ System that predicts blood shortages at Hospital General de Medellín 14 days in
 ![FastAPI](https://img.shields.io/badge/FastAPI-1f3a5f?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-1f3a5f?style=flat-square)
 
-</td>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/josgarciave/Expected-Growth-of-the-Country-s-Companies-by-Sector">
-<img src="https://raw.githubusercontent.com/josgarciave/Expected-Growth-of-the-Country-s-Companies-by-Sector/main/resources/images/BannerReadme.png" height="200" alt="Expected Growth of the Country's Companies by Sector">
-</a>
-
-### Expected Growth of the Country's Companies by Sector
-`Python · Jupyter · Streamlit`
+<a href="https://github.com/josgarciave/Expected-Growth-of-the-Country-s-Companies-by-Sector"><img src="assets/project-expected-growth.svg" width="100%" alt="Expected Growth of the Country's Companies by Sector"></a>
 
 Predictive model and interactive dashboard estimating economic growth for Colombia's 10,000 largest companies. Built for the Datos al Ecosistema 2025 challenge.
 
@@ -89,19 +72,6 @@ Predictive model and interactive dashboard estimating economic growth for Colomb
 ![Random Forest](https://img.shields.io/badge/Random_Forest-1f3a5f?style=flat-square)
 ![Dashboard](https://img.shields.io/badge/Dashboard-1f3a5f?style=flat-square)
 
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josgarciave/josgarciave/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josgarciave/josgarciave/output/github-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/josgarciave/josgarciave/output/github-snake.svg" width="100%">
-  </picture>
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="720" alt=""></p>
 
 ## Contact
 
