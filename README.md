@@ -1,23 +1,23 @@
 <div align="center">
 
-# Jose Miguel García Vélez
+<img src="assets/header.svg" alt="Jose Miguel García Vélez" width="720">
 
 **Statistician · Data Science & Machine Learning**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josgarciave/"><img src="https://img.shields.io/badge/LINKEDIN-1f3a5f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/josgarciave/"><img src="https://img.shields.io/badge/LINKEDIN-1f3a5f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="LinkedIn"></a>
   <a href="https://aperture-systems-lab.github.io/"><img src="https://img.shields.io/badge/APERTURE-1f3a5f?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAP1BMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5M6L8AAAAEHRSTlMA%2FE4vbrDRkQAAAAAAAAAA%2Fv7zBgAAARlJREFUeNrtVduyxCAIEyLw%2F398jrX1im2dndmn5anVBENUDOEX3wswNhksJLxHiUQa3%2Bo5BDERySstKZQzQx9qYU1oYSDiUEV0x4Bcyc9I%2F7rG2yHG2iG6qSOroThaNQ716adJXZTBGU5FPtoJ9Yut%2BMPac6N1qqvCr6UjNfJAgygucOtUiJ4wmUR1CRvzYzYUs9lBugrKJ1PjH4KzSCgZ83RErVuDw5CB0HkuHoM7ScOmRoehl4IhndCcJTPsUvB%2FwrmkRKQlg%2BuxEowb6zLyZqoaD8dsxZDguVHCqdxWePF6VbpF5uGVb%2B5p7RT8CE%2BmmJKhwz%2F3M6DB20avfFLj3MNX3RUAnz3qXdNHRqth50HZflF%2B8Un8AYoSBIObbgb%2BAAAAAElFTkSuQmCC" alt="Aperture"></a>
 </p>
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="720" alt=""></p>
 
 ## About me
 
 I'm a statistics student at Universidad Nacional de Colombia, interested in data science and machine learning. I like using data to find patterns and build predictive models for real-world problems, and I'm open to opportunities across different fields. I co-found Aperture, a student research group at my university.
 
----
+<p align="center"><img src="assets/divider.svg" width="720" alt=""></p>
 
 ## Tech Stack
 
@@ -29,9 +29,9 @@ I'm a statistics student at Universidad Nacional de Colombia, interested in data
 
 **Data Science**
 
-![Pandas](https://img.shields.io/badge/PANDAS-1f3a5f?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-1f3a5f?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SCIPY-1f3a5f?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-1f3a5f?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-1f3a5f?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBOOST-1f3a5f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMyAzaDZ2NEgzem0xMiA3aDZ2NGgtNnptMCA3aDZ2NGgtNnptLTItNEg3djVoNnYySDVWOWgydjJoNnoiLz48L3N2Zz4%3D&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/STATSMODELS-1f3a5f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNOS45NiAxMS4zMUMxMC44MiA4LjEgMTEuNSA2IDEzIDZzMi4xOCAyLjEgMy4wNCA1LjMxQzE3IDE0LjkyIDE4LjEgMTkgMjIgMTl2LTJjLTIuMiAwLTMtMi40Ni00LjAzLTYuMkMxNy4wOCA3LjQ2IDE2LjE1IDQgMTMgNHMtNC4wOCAzLjQ2LTQuOTcgNi44QzcuMDMgMTQuNTQgNi4yIDE3IDQgMTdWMkgydjIwaDIwdi0ySDR2LTFjMy45IDAgNS00LjA4IDUuOTYtNy42OSIvPjwvc3ZnPg%3D%3D&logoColor=white)
@@ -50,7 +50,8 @@ I'm a statistics student at Universidad Nacional de Colombia, interested in data
 ![RStudio](https://img.shields.io/badge/RSTUDIO-1f3a5f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMi4xNzguMDAyYTEyLjAwMiAxMi4wMDIgMCAwIDAtOC42NjIgMy41MTUgMTIuMDAyIDEyLjAwMiAwIDAgMCAwIDE2Ljk3IDEyLjAwMiAxMi4wMDIgMCAwIDAgMTYuOTcgMCAxMi4wMDIgMTIuMDAyIDAgMCAwIDAtMTYuOTdBMTIuMDAyIDEyLjAwMiAwIDAgMCAxMi4xNzkuMDAyek03Ljc3IDUuOTk1Yy41NjIuMTI4IDEuMDUuMjE3IDEuNjYzLjIxNy45MjEgMCAxLjg2My0uMjE3IDIuNzg2LS4yMTcgMS43OSAwIDMuNDUuODE0IDMuNDUgMi44IDAgMS41NC0uOTIxIDIuNTE3LTIuMzUgMi45M2wyLjc4OCA0LjEwN2gxLjMwMXYxLjAxaC0xLjk4NmwtMy4yOTMtNC45MzRoLTEuNzU3djMuOTI0aDEuNzE4djEuMDFINy43N3YtMS4wMWgxLjQ4M1Y3LjEzNEw3Ljc3IDYuOTUxdi0uOTU3em00LjQ2NiAxLjAxMmMtLjU5NiAwLTEuMjEzLjA1My0xLjg2NC4xMjd2My43OThsLjk0MS4wMmMyLjI5OC4wMzQgMy4xODMtLjg1IDMuMTgzLTIuMDI2IDAtMS4zNzYtLjk5Ny0xLjkxOS0yLjI2LTEuOTE5eiIvPjwvc3ZnPg%3D%3D&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-1f3a5f?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-1f3a5f?style=flat-square&logo=jupyter&logoColor=white)
----
+
+<p align="center"><img src="assets/divider.svg" width="720" alt=""></p>
 
 ## Projects
 
@@ -59,7 +60,7 @@ I'm a statistics student at Universidad Nacional de Colombia, interested in data
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/HacklabMLMedellin/Sanghelios">
-<img src="https://github.com/HacklabMLMedellin/Sanghelios/blob/main/RECURSOS/presentation/assets/logo.png" height="200" alt="Sanghelios">
+<img src="https://raw.githubusercontent.com/HacklabMLMedellin/Sanghelios/main/RECURSOS/presentation/assets/logo.png" height="200" alt="Sanghelios">
 </a>
 
 ### Sanghelios
@@ -67,16 +68,16 @@ I'm a statistics student at Universidad Nacional de Colombia, interested in data
 
 System that predicts blood shortages at Hospital General de Medellín 14 days in advance using an XGBoost model, turning that signal into AI-designed donation campaigns deployed through a dashboard and 3D map.
 
-![](https://img.shields.io/badge/Time_Series-111?style=flat-square)
-![](https://img.shields.io/badge/XGBoost-111?style=flat-square)
-![](https://img.shields.io/badge/FastAPI-111?style=flat-square)
-![](https://img.shields.io/badge/AI_Agents-111?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time_Series-1f3a5f?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-1f3a5f?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-1f3a5f?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1f3a5f?style=flat-square)
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/josgarciave/Expected-Growth-of-the-Country-s-Companies-by-Sector">
-<img src="https://github.com/josgarciave/Expected-Growth-of-the-Country-s-Companies-by-Sector/blob/main/resources/images/BannerReadme.png" height="200" alt="Expected Growth of the Country's Companies by Sector">
+<img src="https://raw.githubusercontent.com/josgarciave/Expected-Growth-of-the-Country-s-Companies-by-Sector/main/resources/images/BannerReadme.png" height="200" alt="Expected Growth of the Country's Companies by Sector">
 </a>
 
 ### Expected Growth of the Country's Companies by Sector
@@ -84,17 +85,26 @@ System that predicts blood shortages at Hospital General de Medellín 14 days in
 
 Predictive model and interactive dashboard estimating economic growth for Colombia's 10,000 largest companies. Built for the Datos al Ecosistema 2025 challenge.
 
-![](https://img.shields.io/badge/Ridge_Regression-111?style=flat-square)
-![](https://img.shields.io/badge/Random_Forest-111?style=flat-square)
-![](https://img.shields.io/badge/Dashboard-111?style=flat-square)
+![Ridge Regression](https://img.shields.io/badge/Ridge_Regression-1f3a5f?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-1f3a5f?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Dashboard-1f3a5f?style=flat-square)
 
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josgarciave/josgarciave/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josgarciave/josgarciave/output/github-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/josgarciave/josgarciave/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="720" alt=""></p>
 
 ## Contact
 
-📧 josgarciave@gmail.com
-💼 Open to internships and research collaborations in Statistics, Data Science, and Applied ML.
+[josgarciave@gmail.com](mailto:josgarciave@gmail.com)
+
+Open to internships and research collaborations in Statistics, Data Science, and Applied ML.
